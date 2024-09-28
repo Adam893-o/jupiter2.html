@@ -23,7 +23,7 @@
 		  <img src="Media/Image1.jpg" height="380" width="550" alt="Image of Jupiter" />
 		</a>
 		  </header>
-		</div
+		</div>
 		  <header class="header">
 		 <div class="header">
        <h1>Why Jupiter Is The Most Important Planet In Our Solar System</h1>
