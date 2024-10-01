@@ -63,7 +63,7 @@ img 1 {
 
 
 img 2 {
-	position: absolute;
+	display: flex;
 	max-width: 100%;
 	height: auto;
 	z-index: auto;
