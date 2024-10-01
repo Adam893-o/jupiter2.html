@@ -59,6 +59,7 @@ img {
 	max-width: 100%;
 	height: auto;
 	z-index: auto;
+	margin: 0px auto;
 }
 
 .header h1 {
