@@ -55,11 +55,11 @@ header {
 }
 
 img {
-	display: fixed;
+	display: flex;
 	max-width: 100%;
 	height: auto;
 	z-index: auto;
-	margin: 0px auto;
+	margin: 0px auto
 }
 
 .header h1 {
@@ -85,6 +85,7 @@ img {
     font-family: 'Devonshire', Arial;
     color: #add8e6;
 }
+
 
 div {
 	text-align: center;
@@ -138,16 +139,9 @@ footer {
   transition: background-color 0.3s ease; 
 }
 
-.content-wrapper {
-	padding: 20px
-  background-image: url("../Media/Orange.jpg");
-	background-size: cover;
-  float: left;
-}
-
 p {
 	color: #ffffff;
-	font-size: 2em;
+	font-size: 1em;
 	line-height: 1.6;
 }
 .container {
