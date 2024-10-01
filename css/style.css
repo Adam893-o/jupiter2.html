@@ -54,21 +54,11 @@ header {
   border-radius: 12px 12px 0px 0px; 
 }
 
-img 1 {
-	display: flex;
+img {
+	display: fixed;
 	max-width: 100%;
 	height: auto;
 	z-index: auto;
-}
-
-img2 {
-	text-align center;
-}
-
-img 2 {
-	display: flex;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 .header h1 {
@@ -102,7 +92,7 @@ div {
 
 li {
 	color: black;
-	font-size: 2em;
+	font-size: 1em;
 }
 
 header a .image1 img {
@@ -148,9 +138,16 @@ footer {
   transition: background-color 0.3s ease; 
 }
 
+.content-wrapper {
+	padding: 20px
+  background-image: url("../Media/Orange.jpg");
+	background-size: cover;
+  float: left;
+}
+
 p {
 	color: #ffffff;
-	font-size: 1em;
+	font-size: 2em;
 	line-height: 1.6;
 }
 .container {
