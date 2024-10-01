@@ -54,12 +54,19 @@ header {
   border-radius: 12px 12px 0px 0px; 
 }
 
-img {
+img 1 {
 	display: flex;
 	max-width: 100%;
 	height: auto;
 	z-index: auto;
-	margin: 0px auto
+}
+
+
+img 2 {
+	display: flex;
+	max-width: 100%;
+	height: auto;
+	z-index: auto;
 }
 
 .header h1 {
