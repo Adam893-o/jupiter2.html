@@ -42,7 +42,7 @@
 	    <li>Those beautiful clouds surrounding Jupiter are actually extremely powerful storms.</li>
 	    <li>Jupiter is the fastest rotating planet in the entire solar system. One day around the sun lasts about 9 1/2 hours on Earth.</li>
 			<li>Jupiter is mostly made of hydrogen and helium gas.</li>
-			<li>Jupiter just like Saturn has rings</li>
+			<li>Jupiter just like Saturn has rings.</li>
 	    <li>Jupiter's great red spot is a gigantic cyclone, larger than Earth, and it has been raging for three centuries.</li>
 	    <li>Jupiter is often called a gas giant because the planet is mostly made of hydrogen and helium gas.</li>
 	    <li>Because Jupiter is made of hydrogen and helium gas much like the sun, it's often called a failed star because it doesn't meet the requirements for it to be a star.</li>
