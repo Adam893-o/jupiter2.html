@@ -15,14 +15,14 @@
           <li><a href="https://adam893-o.github.io/Uno2.css">Facts About UNO</a></li>
         </ul>
       </nav>
-	  </div>
+   </div>
   </header>
     <div class="content-wrapper">
 	    <header id="header">
 		<a id="Image1" href="https://adam893-o.github.io/Project-two/">
 		  <img src="Media/Image1.jpg" height="380" width="550" alt="Image of Jupiter" />
 		</a>
-		  </header>
+		</header>
 		</div>
 		  <header class="header">
 		 <div class="header">
