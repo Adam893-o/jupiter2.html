@@ -61,14 +61,6 @@ img 1 {
 	z-index: auto;
 }
 
-
-img 2 {
-	display: flex;
-	max-width: 100%;
-	height: auto;
-	z-index: auto;
-}
-
 .header h1 {
 	position: inherit;
 	left: 800px;
