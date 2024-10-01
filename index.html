@@ -32,10 +32,10 @@
     <h3>A Brief History Behind Planet Jupiter</h3>
       <p>Jupiter is the 5th planet in the Solar System and was discovered by astronomer Galileo Galilei in 1610. He discovered it using a small telescope that he made himself. He realized that he had discovered Jupiter when he saw that the planet had four moons orbiting it rather than stars. This was a big discovery because people in the West always thought that the Earth was the center of the universe. With Jupiter's discovery, we finally realized that there are bigger objects out there in the universe, some of which are larger than anything we'd ever imagined.</p> 
       <p>Jupiter is the most important planet in our solar system because if it weren't for this gas giant, we would not be here. Our solar system is surrounded by an asteroid belt, and because Jupiter is located toward the center of our system, it uses its strong gravitational pull to suck in any asteroids that come toward us, <strong>destroying</strong> them with its powerful gravitational force.</p>
-		<div id="img1">
+	  <div id="img1">
 		<img src="Media/Image2.jpg" height="200" width="240" alt="Image of Jupiter"/>
-		</div>	
-			<p>Above shows an image of the marks that Jupiter recieved while destroying tons of asteroids over the many years</p>
+		</div>
+	    <p>Above shows an image of the marks that Jupiter recieved while destroying tons of asteroid over the many years</p>
    <h2>Other Facts About Planet Jupiter</h2>
       <img src="Media/Image3.jpg" height="300" width="500" alt="Image of Jupiter"/>
 	    <p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
@@ -56,4 +56,5 @@
       <p>While we may never be able to see what's inside Jupiter due to the planet's immense power, we can still study and admire it for protecting us for so many years. However, not everything last forever as studies from NASA have shown that the planet is shrinking. So many mysteries are yet to be discovered about this mysterious planet, and we continue to explore what this fascinating planet has in store for us.</p>
 	    <p>Written by Adam Sharifeh</p>
 </body>
+</html>
 </html>
