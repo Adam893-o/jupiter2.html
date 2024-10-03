@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>My Websites</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="jupiter2.css">
 </head>
 <body>
   <header id="main-header">
