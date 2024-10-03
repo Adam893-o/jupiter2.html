@@ -4,12 +4,19 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-	margin: 8px;
-	font-family: Arial, sans-serif;
-}
-body {
+  position: reletive;
   display: block;
   margin: 8px;
+  font-family: Arial, sans-serif;
+}
+
+page-title {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  maegin: 20px;
+  font-size: 24px
+  color: #fff;
 }
 
 main-nav {
