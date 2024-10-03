@@ -37,8 +37,8 @@
     </div> 
       <p>Above shows an image of the marks that Jupiter recieved while destroying tons of asteroid over the many years</p>
       <h2>Other Facts About Planet Jupiter</h2>
-        <img src="media/image3.jpg" alt="An accurate picture to show exactly how big Jupiter is compared to other planets in out solar system">
-        <p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
+      <img src="media/image3.jpg" alt="An accurate picture to show exactly how big Jupiter is compared to other planets in out solar system">
+      <p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
     <ul>
       <li>Jupiter was named after the king of the gods in Roman mythology. Given that Jupiter is the biggest planet, it deserves that title.</li>
       <li>Those beautiful clouds surrounding Jupiter are actually extremely powerful storms.</li>
