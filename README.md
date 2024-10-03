@@ -10,9 +10,9 @@
     <div></div>
       <nav class="navigation">
         <ul>
-          <li><a href="jupiter.html">About Jupiter</a></li>
-          <li><a href="resume.html">Adam's Resume</a></li>
-          <li><a href="uno.html">Uno Facts</a></li>
+          <li><a href="jupiter.css">About Jupiter</a></li>
+          <li><a href="resume.css">Adam's Resume</a></li>
+          <li><a href="uno.css">Uno Facts</a></li>
         </ul>
       </nav>
     </div>
