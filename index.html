@@ -19,7 +19,7 @@
   </header>
   <div class="content-wrapper">
     <header id="header">
-    <a id="Image1" href="https://adam893-o.github.io/Project-two/"> 
+    <a id="image1" href="https://adam893-o.github.io/Project-two/"> 
     </a>
     </header> 
   </div> 
