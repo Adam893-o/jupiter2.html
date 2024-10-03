@@ -4,19 +4,10 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  position: reletive;
+  position: relative;
   display: block;
   margin: 8px;
   font-family: Arial, sans-serif;
-}
-
-page-title {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  maegin: 20px;
-  font-size: 24px
-  color: #fff;
 }
 
 main-nav {
@@ -57,10 +48,10 @@ main-nav {
 }
 
 .page-wrapper {
-	width: 890px;
-	margin: 0 auto;
-	box-shadow: 0px 4px 8px rgba(40,67,135,1);
-	border-radius: 12px 12px 0px 0px;
+  width: 890px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 8px rgba(40,67,135,1);
+  border-radius: 12px 12px 0px 0px;
 }
 
 header {
@@ -77,12 +68,13 @@ img {
 }
 
 .header h1 {
-	position: inherit;
-	left: 800px;
-	top: -400px;
-	font-size: 2em;
-	font-family: 'Devonshire', Arial;
-	color: #00ffea
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  margin: 20px;
+  font-size: 2em;
+  font-family: 'Devonshire', Arial;
+  color: #00ffea
 }
 
 .header-content {
