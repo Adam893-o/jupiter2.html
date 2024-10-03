@@ -3,14 +3,14 @@
 <head>
   <meta charset="utf-8">
   <title>My Websites</title>
-  <link rel="stylesheet" href="jupiter2.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <header id="main-header">
     <div></div>
       <nav class="navigation">
         <ul>
-          <li><a href="jupiter.css">About Jupiter</a></li>
+          <li><a href="jupiter2.css">About Jupiter</a></li>
           <li><a href="resume.css">Adam's Resume</a></li>
           <li><a href="uno.css">Uno Facts</a></li>
         </ul>
