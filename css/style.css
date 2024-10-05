@@ -11,7 +11,7 @@ body {
 }
 
 main-nav {
-  float: left
+  float: left;
   width: 100px;
   background-color: blue;
 }
