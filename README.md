@@ -7,7 +7,7 @@
 </head>
 <body>
   <header id="main-header">
-    <div></div>
+    <div class="nav-container">
       <nav class="navigation">
         <ul>
           <li><a href="jupiter2.css">About Jupiter</a></li>
