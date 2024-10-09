@@ -4,19 +4,23 @@
   <meta charset="utf-8">
   <title>My Websites</title>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/jupiter.css">
+  <link rel="stylesheet" href="css/resume.css">
+  <link rel="stylesheet" href="css/uno.css">
 </head>
 <body>
   <header id="main-header">
     <div class="nav-container">
       <nav class="navigation">
         <ul>
-          <li><a href="jupiter2.css">About Jupiter</a></li>
-          <li><a href="resume.css">Adam's Resume</a></li>
-          <li><a href="uno2.css">Uno Facts</a></li>
+          <li><a href="jupiter2.html">About Jupiter</a></li>
+          <li><a href="resume.html">Adam's Resume</a></li>
+          <li><a href="uno2.html">Uno Facts</a></li>
         </ul>
       </nav>
     </div>
   </header>
+
   <div class="content-wrapper">
     <header id="header">
     <a id="image1" href="https://adam893-o.github.io/Project-two/"> 
