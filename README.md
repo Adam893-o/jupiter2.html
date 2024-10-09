@@ -20,7 +20,6 @@
       </nav>
     </div>
   </header>
-
   <div class="content-wrapper">
     <header id="header">
     <a id="image1" href="https://adam893-o.github.io/Project-two/"> 
@@ -29,8 +28,9 @@
   </div> 
     <header class="header">
   <div class="header">
-  <h1>Why Jupiter Is The Most Important Planet In Our Solar System</h1>
+  <h1 class="page-title">Why Jupiter Is The Most Important Planet In Our Solar System</h1>
   </div>
+    </header>
   <section>
     <img src="media/image1.jpg" alt="A stunning look up cloase at Jupiter and seeing the great red spot" >
     <h3>A Brief History Behind Planet Jupiter</h3>
@@ -41,8 +41,8 @@
     </div> 
       <p>Above shows an image of the marks that Jupiter recieved while destroying tons of asteroid over the many years</p>
       <h2>Other Facts About Planet Jupiter</h2>
-      <img src="media/image3.jpg" alt="An accurate picture to show exactly how big Jupiter is compared to other planets in out solar system">
-      <p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
+        <img src="media/image3.jpg" alt="An accurate picture to show exactly how big Jupiter is compared to other planets in out solar system">
+        <p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
     <ul>
       <li>Jupiter was named after the king of the gods in Roman mythology. Given that Jupiter is the biggest planet, it deserves that title.</li>
       <li>Those beautiful clouds surrounding Jupiter are actually extremely powerful storms.</li>
@@ -56,7 +56,7 @@
       <li>Jupiter has a lot of moons. Around 95 moons to be exact. It's top 4 largest being <strong>Io</strong>, <strong>Callisto</strong>, <strong>Ganymede</strong>, and <strong>Europa</strong></li> 
       <li>Jupiter's magnetic field is so strong that NASA has captured audio with the Juno spacecraft of what Jupiter sounds like.</li>
     </ul>
-    <iframe width="400" height="300" src="https://www.youtube.com/embed/e3fqE01YYWs?si=7IFdZLB1Tiov8kD7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="400" height="300" src="https://www.youtube.com/embed/e3fqE01YYWs?si=7IFdZLB1Tiov8kD7" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <h3>Overall Conclusion</h3>
     <p>While we may never be able to see what's inside Jupiter due to the planet's immense power, we can still study and admire it for protecting us for so many years. However, not everything last forever as studies from NASA have shown that the planet is shrinking. So many mysteries are yet to be discovered about this mysterious planet, and we continue to explore what this fascinating planet has in store for us.</p>
     <p>Written by Adam Sharifeh</p>
