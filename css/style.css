@@ -112,8 +112,8 @@ div {
 }
 
 li {
-	color: black;
-	font-size: 1em;
+  color: black;
+  font-size: 1em;
 }
 
 header a .image1 img {
@@ -123,20 +123,20 @@ header a .image1 img {
 }
 
 ul {
-	color: black;
-	font-size: 1em;
+  color: black;
+  font-size: 1em;
 }
 
 
 ul {
-	padding-left:20px;
-	margin: 20px 0;
-	color; 567
+  padding-left:20px;
+  margin: 20px 0;
+  color; 567
 }
 
 h2 strong{
-	font-size: 2em;
-	font-weight: 800;
+  font-size: 2em;
+  font-weight: 800;
 }
 
 footer {
@@ -160,33 +160,33 @@ footer {
 }
 
 .content-wrapper {
-	padding: 20px
+  padding: 20px
   background-image: url("../Media/Orange.jpg");
-	background-size: cover;
+  background-size: cover;
   float: left;
 }
 
 p {
-	color: #ffffff;
-	font-size: 2em;
-	line-height: 1.6;
+  color: #ffffff;
+  font-size: 2em;
+  line-height: 1.6;
 }
 .container {
-	justify-content: center;
-	padding-left: 20px;
+  justify-content: center;
+  padding-left: 20px;
   align-items: center;
-	min-height: 100vh;
+  min-height: 100vh;
 }
 
 content-wrapper {
   width: 960px;
   text-align: center;
-	font-family: sans-serif, "Helvetica Neue", Arial;
-	font-stretch: expanded;
+  font-family: sans-serif, "Helvetica Neue", Arial;
+  font-stretch: expanded;
 }
 
 strong {
-	font-weight: 0.9em;
-	color: blue;
-	font-weight: bold;
+  font-weight: 0.9em;
+  color: blue;
+  font-weight: bold;
 }
