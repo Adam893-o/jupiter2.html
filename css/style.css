@@ -37,8 +37,13 @@ main-nav ul li a {
   color: #ccc;
 }
 
+nav ul li a {
+  color: #ee2929;
+  text-decoration: none;
+}
+
 #about-jupiter nav ul li a:hover {
-  background-color: #0056a6;
+  color: green;
 }
 
 .nav-container {
