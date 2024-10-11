@@ -6,6 +6,7 @@ body {
   background-attachment: fixed;
   position: relative;
   display: block;
+  text-decoration: none;
   margin: 8px;
   font-family: Arial, sans-serif;
 }
@@ -32,10 +33,9 @@ main-nav ul li {
 }
 
 main-nav ul li a {
-    padding: 10px 25px;
-    display: block;
-    text-decoration: none;
-    color: #ccc;
+  padding: 10px 25px;
+  display: block;
+  color: #ccc;
 }
 
 .nav-container {
