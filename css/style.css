@@ -42,8 +42,10 @@ nav ul li a {
   text-decoration: none;
 }
 
-#about-jupiter nav ul li a:hover {
-  color: green;
+nav ul li a:hover {
+  color: green; 
+  background-color: yellow; 
+  text-decoration: underline; 
 }
 
 .nav-container {
