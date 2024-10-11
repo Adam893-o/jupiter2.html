@@ -6,13 +6,8 @@ body {
   background-attachment: fixed;
   position: relative;
   display: block;
-  text-decoration: none;
   margin: 8px;
   font-family: Arial, sans-serif;
-}
-
-#about-jupiter nav ul li a:hover {
-  background-color: #0056a6;
 }
 
 main-nav {
@@ -40,6 +35,10 @@ main-nav ul li a {
   padding: 10px 25px;
   display: block;
   color: #ccc;
+}
+
+#about-jupiter nav ul li a:hover {
+  background-color: #0056a6;
 }
 
 .nav-container {
