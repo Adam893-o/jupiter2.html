@@ -104,6 +104,12 @@ img {
     color: #add8e6;
 }
 
+hover {
+  background-color: yellow;
+  color: blue; 
+  text-decoration: underline; 
+  cursor: pointer; 
+}
 
 div {
 	text-align: center;
