@@ -84,10 +84,9 @@ header {
 }
 
 img {
-	display: fixed;
-	max-width: 100%;
-	height: auto;
-	z-index: auto;
+  max-width: 100%;
+  height: auto;
+  z-index: auto;
 }
 
 .header h1 {
@@ -138,7 +137,6 @@ ul {
 ul {
   padding-left:20px;
   margin: 20px 0;
-  color; 567
 }
 
 h2 strong{
@@ -171,6 +169,7 @@ p {
   font-size: 2em;
   line-height: 1.6;
 }
+
 .container {
   justify-content: center;
   padding-left: 20px;
