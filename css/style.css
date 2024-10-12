@@ -43,8 +43,8 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: green; 
-  background-color: yellow; 
+  color: #fff580; 
+  background-color: #2200fb; 
   text-decoration: underline; 
 }
 
@@ -115,7 +115,7 @@ img {
 }
 
 div {
-	text-align: center;
+  text-align: center;
 }
 
 li {
@@ -166,13 +166,6 @@ footer {
   transition: background-color 0.3s ease; 
 }
 
-.content-wrapper {
-  padding: 20px
-  background-image: url("../Media/Orange.jpg");
-  background-size: cover;
-  float: left;
-}
-
 p {
   color: #ffffff;
   font-size: 2em;
@@ -193,7 +186,6 @@ content-wrapper {
 }
 
 strong {
-  font-weight: 0.9em;
   color: blue;
   font-weight: bold;
 }
